@@ -33,3 +33,14 @@
 - No fixes yet.
 
 
+## [0.0.4] - 2025-01-31
+### Added
+- INSTALL.md.
+
+### Changed
+- Nothing.
+
+### Fixed
+- No fixes yet.
+
+
