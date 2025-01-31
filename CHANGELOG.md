@@ -44,3 +44,12 @@
 - No fixes yet.
 
 
+## [0.0.5] - 2025-01-31
+### Added
+- Nothing.
+
+### Changed
+- changes in the parameters of the Island project - it was "MAX_ANIMALS_ON_ISLAND = 100" now "MAX_ANIMALS_ON_ISLAND = 150".
+
+### Fixed
+- No fixes yet.
