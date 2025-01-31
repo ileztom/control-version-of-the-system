@@ -7,9 +7,9 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class IslandSimulation {
     private static final int ISLAND_WIDTH = 100;
-    private static final int ISLAND_HEIGHT = 20;
+    private static final int ISLAND_HEIGHT = 30;
     private static final int TICK_DURATION = 1; // Время одного такта в секундах
-    private static final int MAX_ANIMALS_ON_ISLAND = 100; // Максимальное количество животных на острове
+    private static final int MAX_ANIMALS_ON_ISLAND = 150; // Максимальное количество животных на острове
 
     private Location[][] island;
     private ScheduledExecutorService scheduler;
