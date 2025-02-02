@@ -66,3 +66,13 @@
 - No fixes yet.
 
 
+## [0.0.7] - 2025-02-02
+### Added
+- Nothing.
+
+### Changed
+- Nothing.
+
+### Fixed
+- Removing unnecessary project files to reduce the amount of project memory.
+
